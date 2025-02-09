@@ -54,3 +54,27 @@ h1{
 .hide{
     display: none;
 }
+.hide{
+    display: none;
+}
+.btns{
+    background-color: #c7ffcd;
+    color: blue;
+    height: 14vmin;
+    width: 110vmin;
+    font-size: 5vmin;
+    text-align: center;
+    border-radius: 1rem;
+    border: none;
+    box-shadow: 3vmin;
+    margin: 5vmin 0;
+}
+.mode{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+}
+.cont{
+    padding-top: 10vmin;
+}
